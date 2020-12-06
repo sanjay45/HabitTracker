@@ -1,6 +1,5 @@
 # HabitTracker
-# HabitTracker-App
-### Features
+
 *******************************
 
 **1. Home Page,input name of a city in search box.**  
