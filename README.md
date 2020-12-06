@@ -8,8 +8,8 @@ An Android appplication which is used to help to track the habits as well help t
 
 **1. Home Page**  
 
-<img src="https://github.com/sanjay45/HabitTracker/blob/master/Screenshots/Welcome_Page.png" width="200"/><img src= "https://github.com/sanjay45/HabitTracker/blob/master/Screenshots/Welcome_Page1.png" width="300"/>
-<img src= "https://github.com/sanjay45/HabitTracker/blob/master/Screenshots/Welcome_Page2.png" width="300"/>
+<img src="https://github.com/sanjay45/HabitTracker/blob/master/Screenshots/Welcome_Page.png" width="200"/><img src= "https://github.com/sanjay45/HabitTracker/blob/master/Screenshots/Welcome_Page1.png" width="200"/>
+<img src= "https://github.com/sanjay45/HabitTracker/blob/master/Screenshots/Welcome_Page2.png" width="200"/>
 
 *****************************************************************************************************************************************************
 
