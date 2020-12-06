@@ -11,9 +11,9 @@ An Android appplication which is used to help to track the habits as well help t
 </div>
 
 <div class="row">
-      <img src="/screenshots/Screenshot_2018-05-20-14-59-47-654_com.example.anujsharma.shuffler.png" width="250" title="Search History">
-      <img src="/screenshots/Screenshot_2018-05-20-15-02-39-938_com.example.anujsharma.shuffler.png" width="250" title="Saved Playlists">
-      <img src="/screenshots/Screenshot_2018-05-20-15-04-15-523_com.example.anujsharma.shuffler.png" width="250" title="Search Results">
+      <img src="https://github.com/sanjay45/HabitTracker/blob/master/Screenshots/EmptyListPage.png" width="250" title="Search History">
+      <img src="https://github.com/sanjay45/HabitTracker/blob/master/Screenshots/Create_New_Habit.png" width="250" title="Saved Playlists">
+      <img src="https://github.com/sanjay45/HabitTracker/blob/master/Screenshots/Habits_List_Page.png" width="250" title="Search Results">
 </div>
 
 
